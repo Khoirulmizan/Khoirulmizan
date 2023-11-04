@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khoirulmizan
-- 👀 I’m interested in Geospatial Computing and Public Transportation System
+- 👀 I’m interested in Geospatial Computing and Public Transportation Systems
 - 🌱 I’m currently learning Data Science in Sumatera Institute of Technology
 - 📫 How to reach me:
 - Instagram: @kahaoieruel

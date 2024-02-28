@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khoirulmizan
-- 👀 I’m interested in Geospatial and Cloud Computing
+- 👀 I’m interested in Geospatial Computing and Cloud Computing
 - 🌱 I’m currently learning Data Science in Sumatera Institute of Technology
 - 📫 How to reach me:
 - Instagram: @kahaoieruel

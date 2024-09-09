@@ -12,7 +12,7 @@
 <br><br>
 <pre style="display: inline-block; border:3px solid Black;">
   🌱 2nd Year Undergraduate Data Science Student @ ITERA, South Lampung 
-  👀 Interested in Geospatial Computing • Cloud Computing • Data Engineering
+  👀 Interested in Geospatial Computing • Machine Learning • Data Engineering
   🎮 Music • Fashion • Cosplay • Games • Art • Cooking • Drumming • Baking 🍪
 </pre>
 </div>

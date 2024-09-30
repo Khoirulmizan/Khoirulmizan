@@ -11,7 +11,7 @@
 [![](https://img.shields.io/badge/twitch-833AB4)](https://www.twitch.tv/deretwaktu)
 <br><br>
 <pre style="display: inline-block; border:3px solid Black;">
-  🌱 2nd Year Undergraduate Data Science Student @ ITERA, South Lampung 
+  🌱 3rd Year Undergraduate Data Science Student @ ITERA, South Lampung 
   👀 Interested in Geospatial Computing • Machine Learning • Data Engineering
   🎮 Music • Fashion • Cosplay • Games • Art • Cooking • Drumming • Baking 🍪
 </pre>
